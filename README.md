@@ -1,4 +1,4 @@
-# Neural_Network_Charity_Analysis
+# Neural Network Charity Analysis: Alphabet Soup
 
 ## Purpose: 
 To build a machine learning model that will analyze metadata on 34,000+ organizations that use Alphabet Soup. The data is being used to help the foundation determine where to make investments. The model will use the features in the provided dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
